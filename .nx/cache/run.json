@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx s",
+    "startTime": "2024-07-16T17:01:40.691Z",
+    "endTime": "2024-07-16T17:02:12.256Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "clips:serve:development",
+      "target": "serve",
+      "projectName": "clips",
+      "hash": "12216550455017213406",
+      "startTime": "2024-07-16T17:01:40.703Z",
+      "endTime": "2024-07-16T17:02:12.255Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}
