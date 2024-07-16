@@ -1,0 +1,16 @@
+Project 'e2e' contains extension with invalid name (// targets).
+[36m⠋[39m Generating browser application bundles (phase: setup)...
+ [31m>[39m [0m[7m[1m[31m NX [39m[22m[27m[0m  [31mCannot find module '/home/mesh/Documents/angular/clips/node_modules/license-webpack-plugin/dist/index.js'. Please verify that the package.json has a valid "main" entry[39m
+
+
+Error: Cannot find module '/home/mesh/Documents/angular/clips/node_modules/license-webpack-plugin/dist/index.js'. Please verify that the package.json has a valid "main" entry
+    at tryPackage (node:internal/modules/cjs/loader:437:19)
+    at Module._findPath (node:internal/modules/cjs/loader:705:18)
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1120:27)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at Module.require (/home/mesh/Documents/angular/clips/node_modules/nx/src/adapter/compat.js:61:40)
+    at require (node:internal/modules/helpers:177:18)
+    at getCommonConfig (/home/mesh/Documents/angular/clips/node_modules/@angular-devkit/build-angular/src/webpack/configs/common.js:118:38)
+    at async Promise.all (index 0)
+    at async generateWebpackConfig (/home/mesh/Documents/angular/clips/node_modules/@angular-devkit/build-angular/src/utils/webpack-browser-config.js:64:22)

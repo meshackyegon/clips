@@ -1,18 +1,18 @@
 {
   "run": {
-    "command": "nx s",
-    "startTime": "2024-07-16T17:01:40.691Z",
-    "endTime": "2024-07-16T17:02:12.256Z",
+    "command": "nx build --verbose",
+    "startTime": "2024-07-16T17:09:39.870Z",
+    "endTime": "2024-07-16T17:09:44.223Z",
     "inner": false
   },
   "tasks": [
     {
-      "taskId": "clips:serve:development",
-      "target": "serve",
+      "taskId": "clips:build:production",
+      "target": "build",
       "projectName": "clips",
-      "hash": "12216550455017213406",
-      "startTime": "2024-07-16T17:01:40.703Z",
-      "endTime": "2024-07-16T17:02:12.255Z",
+      "hash": "4411464878997937731",
+      "startTime": "2024-07-16T17:09:39.898Z",
+      "endTime": "2024-07-16T17:09:44.222Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 1
